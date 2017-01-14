@@ -1,2 +1,2 @@
 # cs290
-OSU CS 290 Winter 2017
+This is the initial readme file for the cs290 repository.
